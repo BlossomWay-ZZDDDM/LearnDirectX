@@ -1,3 +1,3 @@
-# LearnDirect3X
+# LearnDirectX
 
-recording the process of learning Direct3X
+recording the process of learning DirectX
